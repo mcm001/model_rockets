@@ -1,0 +1,11 @@
+"NEW AEROELASTIC ANALYSIS"
+4,3,3,1
+"User Defined Material","sustainer ",3,11.6,2.44,3.93,7.37,.0938
+2500000,.065,.3
+"User Defined Material","booster",3,6,3,4.75,1.5,.125
+2500000,.065,.3
+"CFRP T300 N5208","sustainer + layup",3,11.6,2.44,3.93,7.37,.13
+10110000,.058,.3
+"CFRP T300 N5208","booster + layup",3,6,3,4.75,7.37,.175
+10110000,.058,.3
+.5,.594

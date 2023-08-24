@@ -1,0 +1,7 @@
+"NEW AEROELASTIC ANALYSIS"
+2,5,3,1
+"G10 fiberglass","Goblin 5, FG",4,8,5.3,5,3.9,.245
+3200000,.066,.35
+"CFRP T300 N5208","Goblin 5, CF",4,8,5.3,5,3.9,.245
+10110000,.058,.3
+.5,.55
